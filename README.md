@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulsid55
-- 👀 I’m interested in problem solving,machine learning
-- 🌱 I’m currently learning pusuing masters in IIIT B
+- 👀 I’m interested in problem solving,devlopment
+- 🌱 Completed masters from IIIT B
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me mail to sidda.rahul@iiitb.ac.in
 
